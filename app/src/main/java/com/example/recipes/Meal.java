@@ -1,7 +1,6 @@
 package com.example.recipes;
 
-import java.util.List;
-
+// Класс для хранения информации о блюде
 public class Meal {
     private String idMeal;
     private String strMeal;
